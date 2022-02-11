@@ -18,7 +18,7 @@ Our goal is to deploy a machine learning algorithmic trading on Bitcoin and Ethe
 3. Dickie's Strategy
 4. Becca's Strategy
 
-*** Analyze each strategu***
+*** Analyze each strategy***
 
 *Models:*
 ---
