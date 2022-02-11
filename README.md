@@ -8,8 +8,8 @@ Our goal is to deploy a machine learning algorithmic trading on Bitcoin and Ethe
 ---
 1. Gather Data 
 2. Prepare Data
-3. 
-4. Create a folder that contains 4 different strategies 
+3. Split, Train, and Fit Data
+4. Create a folder that contains 4 different strategies .
 
 *Strategies:*
 ---
@@ -21,7 +21,10 @@ Our goal is to deploy a machine learning algorithmic trading on Bitcoin and Ethe
 *** Analyze each strategu***
 
 *Models:*
-Use a new evaulation metric.
+---
+1. Use a new evaulation metric.
+2. 
 
 
 *Create Powerpoint for Investors:*
+
