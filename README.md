@@ -7,7 +7,7 @@ Our goal is to deploy a machine learning algorithmic trading on Bitcoin and Ethe
 *Steps:*
 ---
 1. Gather Data (using ALPACA Trading API).
-2. Prepare Data for algorithmic trading with machine learning
+2. Prepare Data for algorithmic trading with machine learning.
 3. Split, Train, and Fit Data.
 4. Create a folder that contains 4 different strategies .
 
@@ -30,4 +30,5 @@ Our goal is to deploy a machine learning algorithmic trading on Bitcoin and Ethe
 *Create Powerpoint for Investors:*
 ---
 How investors can use any of the stategies to increase their profit. 
+
 
