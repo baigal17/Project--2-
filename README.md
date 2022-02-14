@@ -25,7 +25,7 @@ Our goal is to build a machine learning trading algorithm for Bitcoin and Ethere
   
   
 ### Create powerpoint to demonstrate investment strategies to investors
--Mention how our trading bot is a stepping stone that can be easily built on when companies decide to further advancve their results.
+-Mention how our trading algorithm is a stepping stone that can be easily built on when companies decide to further advancve their results.
 -Also, if investors are ready to take the leap of faith all they would need to do list put in their keys to a live trading alpaca account. 
 
 
