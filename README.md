@@ -2,33 +2,31 @@
 
 ## Premise
 ---
-Our goal is to deploy a machine learning algorithmic trading on Bitcoin and Ethereum using four different strategies that our investors could take advantage of. 
+Our goal is to build a machine learning trading algorithm for Bitcoin and Ethereum that consists of four different trading strategies that investors could potentially take advantage of. 
 
 *Steps:*
 ---
-1. Gather Data (using ALPACA Trading API).
-2. Prepare Data for algorithmic trading with machine learning.
-3. Split, Train, and Fit Data.
-4. Create a folder that contains 4 different strategies .
-
+ 1. Gather data(alpaca API paper trading)
+ 2. Prepare the data(OHLCV format and any other data we will need in order to use strategy>
+ 3. Split the data(Split between training and testing data, will train model with pricing data from offset months)
+ 4. Once data is preprocessed we will keep the original data in one file, then create a folder that contains 4 separate strategies.
+  
 *Strategies:*
 ---
-1. Casey's Strategy 
-2. Spencer's Srategy 
-3. Dickie's Strategy
-4. Becca's Strategy
+ 1. Casey's Strategy 
+ 2. Spencer's Strategy 
+ 3. Dickie's Strategy
+ 4. Becca's Strategy
+ 
+ ***Analyze the data, draw conclusions on each strategy.***
+  
+  *Models:*
+  1. 
+  
+  
+### Create powerpoint to demonstrate investment strategies to investors
+-Mention how our trading bot is a stepping stone that can be easily built on when companies decide to further advancve their results.
+-Also, if investors are ready to take the leap of faith all they would need to do list put in their keys to a live trading alpaca account. 
 
-*** Evaluate and Analyze each strategy***
-
-*Models:*
----
-1. Use a new evaulation metric.
-2. Leverage the models taught in class.
-
-
-
-*Create Powerpoint for Investors:*
----
-How investors can use any of the stategies to increase their profit. 
 
 
